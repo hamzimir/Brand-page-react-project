@@ -2,7 +2,7 @@ import "./App.css";
 const App = () => {
   return (
   <div>
-  <nav>
+  <nav className="container">
    <div className="logo">
     <img src="brand.png" alt="" />
    </div>
